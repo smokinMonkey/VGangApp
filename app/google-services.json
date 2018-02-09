@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "93365454216",
+    "firebase_url": "https://vgang-a6738.firebaseio.com",
+    "project_id": "vgang-a6738",
+    "storage_bucket": "vgang-a6738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93365454216:android:724593cd83f5086e",
+        "android_client_info": {
+          "package_name": "com.smokinmonkey.vgangapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93365454216-4oe7lujukunhsueuqrt4jj6vv7945u00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smokinmonkey.vgangapp",
+            "certificate_hash": "d14f52fff013295c1e11fc57a8e2936079e4776a"
+          }
+        },
+        {
+          "client_id": "93365454216-og34554tvb5m2gkhv35tcrvflmqc9t9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6pueR7SetTwGOszom4s7mhfRaGRdRVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93365454216-og34554tvb5m2gkhv35tcrvflmqc9t9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
